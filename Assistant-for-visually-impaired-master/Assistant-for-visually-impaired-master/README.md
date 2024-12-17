@@ -40,8 +40,8 @@ Place the credentials in the required directory.
 Steps:
 bash
 Copy code
-git clone https://github.com/mansi1710/DobaraMatPuchana
-cd DobaraMatPuchana
+git clone
+cd into dir
 pip install -r requirements.txt
 Run the Program:
 bash
